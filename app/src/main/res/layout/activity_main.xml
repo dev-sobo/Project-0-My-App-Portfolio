@@ -17,8 +17,9 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="My Nanodegree Apps!"
         android:id="@+id/textView"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"/>
+        android:layout_above="@+id/spotifyStreamerApp"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="35dp"/>
 
 
     <Button
