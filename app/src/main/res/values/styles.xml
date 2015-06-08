@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="MyAppPortfolio">
+        <item name="android:background">#F08C35</item>
+        <item name="android:hapticFeedbackEnabled">true</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginBottom">7dp</item>
+    </style>
+
+</resources>
