@@ -67,7 +67,8 @@
         android:id="@+id/capstoneApp"
         android:layout_below="@+id/XYZReaderApp"
         android:layout_centerHorizontal="true"
-        android:background="#ffff2530"/>
+        android:background="#ffff2530"
+        android:textColor="#ff0eff61"/>
 
     <Button
         style="@style/MyAppPortfolio"
